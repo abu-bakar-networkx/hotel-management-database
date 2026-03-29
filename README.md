@@ -11,8 +11,8 @@ An SQL-based hotel management system with relational database design for managin
 3. Mapping: ERD (Entity Relationship Diagram) 
 
 🧱 Database Design
-The database consists of multiple interconnected tables such as Hotel, Reservation, Room, RoomType, Payment, Invoice, Employee, Services. 
-The design ensures data integrity through primary and foreign keys, proper normalization, efficient relationship handling. 
+- The database consists of multiple interconnected tables such as Hotel, Reservation, Room, RoomType, Payment, Invoice, Employee, Services. 
+- The design ensures data integrity through primary and foreign keys, proper normalization, efficient relationship handling. 
 
 🚀 How to Use
 1. Run schema.sql to create the database structure
