@@ -2,8 +2,8 @@
 An SQL-based hotel management system with relational database design for managing hotel operations. It includes database schema design, sample data population, and SQL queries for extracting meaningful business insights.
 
 🌟 Project Vision
-Managing a hotel isn’t just about booking rooms—it involves coordinating guests, staff, services, and finances all at once. I built this relational database system to act as the digital backbone of a hotel, making sure data flows smoothly from reservation to final checkout.
-My main focus was to design a clean, scalable, and well-structured database that reflects real-world hotel operations—such as handling bookings, maintenance, and billing—while avoiding data duplication and ensuring efficiency.
+- Managing a hotel isn’t just about booking rooms—it involves coordinating guests, staff, services, and finances all at once. I built this relational database system to act as the digital backbone of a hotel, making sure data flows smoothly from reservation to final checkout.
+- My main focus was to design a clean, scalable, and well-structured database that reflects real-world hotel operations—such as handling bookings, maintenance, and billing—while avoiding data duplication and ensuring efficiency.
 
 🛠️ The Toolbox
 1. Database Engine: MySQL
